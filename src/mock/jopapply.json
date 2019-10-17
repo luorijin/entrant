@@ -1,0 +1,44 @@
+[{
+	"number": "A、",
+	"name": "技术类",
+	"subitems": [{
+		"number": "①",
+		"name": "研发工程师"
+	},
+	{
+		"number": "②",
+		"name": "工艺工程师"
+	},
+	{
+		"number": "③",
+		"name": "技术支持"
+	},
+	{
+		"number": "④",
+		"name": "工程技术"
+	}]
+},
+{
+	"number": "B、",
+	"name": "销售类",
+	"subitems": [{
+		"number": "①",
+		"name": "销售工程师"
+	},
+	{
+		"number": "②",
+		"name": "客户工程师"
+	},
+	{
+		"number": "③",
+		"name": "市场推广"
+	}]
+},
+{
+	"number": "E、",
+	"name": "其他",
+	"subitems": [{
+		"number": "",
+		"name": "其他"
+	}]
+}]
